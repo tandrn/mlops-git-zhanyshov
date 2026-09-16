@@ -1,3 +1,3 @@
 print("Start app")
 print("Train my model")
-print("Print metric")print("Temporary debug")
+print("Print metric")
